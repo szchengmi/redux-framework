@@ -1,7 +1,7 @@
 {
-  "name": "redux-framework",
+  "name": "redux-framework-core",
   "version": "3.6.17",
-  "title": "ReduxFramework",
+  "title": "redux-framework-core",
   "description": "Redux is a simple, truly extensible options framework for WordPress themes and plugins.",
   "main": "Gruntfile.js",
   "directories": {
@@ -10,14 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReduxFramework/ReduxFramework.git"
+    "url": "https://github.com/szchengmi/redux-framework.git"
   },
   "bugs": {
-    "url": "https://github.com/ReduxFramework/ReduxFramework/issues"
+    "url": "https://github.com/szchengmi/redux-framework/issues"
   },
-  "author": "Redux Framework Team",
-  "license": "GPL-2.0-or-later",
-  "homepage": "http://reduxframework.com",
+
   "devDependencies": {
     "compass-options": "^0.1.1",
     "grunt": "^1.0.3",
